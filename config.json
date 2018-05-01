@@ -20,6 +20,6 @@
     "vetshadow"
   ],
   "Disable": ["vetshadow"],
-  "Deadline": "5m",
+  "Deadline": "10m",
   "Concurrency": 2
 }
